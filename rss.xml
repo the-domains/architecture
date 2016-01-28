@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Architecture]]></title>
+        <description><![CDATA[Architecture]]></description>
+        <link>https://thegrid.ai/architecture/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 16:51:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/architecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/architecture/1bea57d7-ff6f-4b9d-922f-7364c5b23a55/index.html</link>
+            <guid isPermaLink="false">1bea57d7-ff6f-4b9d-922f-7364c5b23a55</guid>
+            <pubDate>Thu, 28 Jan 2016 16:51:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Selected Works by Trifon Metodiev]]></title>
+            <description><![CDATA[<article><h1>Selected Works by Trifon Metodiev</h1><p>Buy Selected Works by Trifon Metodiev book by author Trifon Metodiev. Preview and learn more about this self-published Architecture book.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0a0654dd703dc6b975942d2fa6775d3a08fc30.jpg"></article>]]></description>
+            <link>http://www.blurb.com/b/1714011-selected-works-by-trifon-metodiev</link>
+            <guid isPermaLink="false">6c8fb603-bdcd-462d-bfe1-94ddaa445c8b</guid>
+            <pubDate>Thu, 12 Nov 2015 21:11:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
